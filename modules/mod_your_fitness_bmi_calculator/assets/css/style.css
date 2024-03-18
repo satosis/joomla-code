@@ -1,0 +1,185 @@
+/**
+ * Torbara Your Fitness Theme for Joomla, exclusively on Envato Market: http://themeforest.net/user/torbara
+ * @encoding     UTF-8
+ * @version      0.1
+ * @copyright    Copyright ( C ) 2015 Torbara (http://torbara.com). All rights reserved.
+ * @license      GNU General Public License version 2 or later, see http://www.gnu.org/licenses/gpl-2.0.html
+ * @author       Nemirovskiy Vitaliy (support@torbara.com)
+ */
+
+.tt-border-form{
+    border: 1px solid #d3d3d3;
+    -moz-outline-radius: 15px;
+    border-radius: 15px;
+    padding: 47px;
+    float: left; 
+    margin-bottom: 100px !important; 
+}
+
+.tt-border-form-home2{
+    border: 1px solid #d3d3d3;
+    -moz-outline-radius: 15px;
+    border-radius: 15px;
+    padding: 47px;
+    float: left; 
+    margin-bottom: 150px !important; 
+}
+
+input[type="radio"] {
+    display:none;
+}url("C:/Users/phoenix/Desktop/background-bg/background-news.jpg")
+
+input[type="radio"] + label {
+    color: #666666;
+    font-family:Arial, sans-serif;
+    font-size: 16pt;
+}
+
+input[type="radio"] + label span {
+    display:inline-block;
+    width:28px;
+    height:28px;
+    vertical-align:middle;
+    background:url(/modules/mod_your_fitness_bmi_calculator/assets/images/radio_torbara.png) left top no-repeat;
+    cursor:pointer;
+}
+
+input[type="radio"]:checked + label span {
+    background:url(/modules/mod_your_fitness_bmi_calculator/assets/images/radio_torbara.png) -34px no-repeat;
+}
+
+
+.weight-bmi{
+    margin-right: 23px; 
+    float: left;
+}
+
+.ak-bmicalc-submit{
+    background-image:url(/modules/mod_your_fitness_bmi_calculator/assets/images/more_articles.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border:0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 114px;
+    padding-right: 114px;
+    font-weight: bold;
+    font-family: @base-heading-font-family;  
+    color: white;
+    text-transform: uppercase;
+    font-size: 18px;
+    -moz-border-radius: 3px 3px 3px 3px;
+    -webkit-border-radius: 3px 3px 3px 3px;
+    margin-top: 21px;
+}
+
+.bmi-link{
+    text-transform: uppercase;
+    text-decoration: underline; 
+    color: #ff3030;
+    font-size: 11pt;
+}
+
+.header-text{
+    text-transform: uppercase; 
+    font-size: 22pt;
+    font-family: Roboto;
+    margin-bottom: 4px;
+}
+
+.select{
+    -webkit-appearance: none;
+    color: #777;
+    padding: 10px;
+    font-size: 16px;
+    width: 50%;
+    background: #fff url(/modules/mod_your_fitness_bmi_calculator/assets/images/age.png) 93% center no-repeat;
+    display: block;
+    border: 1px solid #ccc;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+   
+    width: 334px;
+    height: 60px;    
+    border-radius: 5px;
+    -moz-outline-radius: 5px;
+    padding-left: 15px;
+    margin-top: 25px;
+    font-size: 14pt;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+.select_to{
+    -webkit-appearance: none;
+    color: #777;
+    padding: 10px;
+    font-size: 16px;
+    width: 50%;
+    background: #fff url(/modules/mod_your_fitness_bmi_calculator/assets/images/arrow.png) 86% center no-repeat;
+    display: block;
+    border: 1px solid #ccc;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-left: 19px;
+    width: 155px;
+    height: 60px;
+    border-radius: 5px;
+    -moz-outline-radius: 5px;
+    margin-top: 19px;
+    font-size: 13pt;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+ 
+.ak-bmi-result{
+    margin-left: 440px;
+    padding-left: 20px;
+}
+
+@media screen and (max-width: 480px) {
+    .ak-bmi-result {
+        margin-left: 0px;   
+    }
+    .form{
+        float: none;
+    }
+}
+
+.yoor-result{
+    color: #a0a0a0; 
+    font-size: 23pt; 
+    text-transform: uppercase; 
+    margin-top: 56px;
+    margin-left: 5px; 
+    font-family: Roboto;
+}
+
+.result-bmi{
+    color: #84b400; 
+    font-size: 43pt; 
+    font-weight: bold; 
+    font-family: 'Roboto';
+    margin-top: 38px;
+    margin-left: 3px;
+}
+
+.text-bmi{
+    text-transform: uppercase;
+    font-size: 24pt;
+    padding-left: 10px;
+    font-weight: 300;
+    font-family: 'roboto';
+}
+
+.text-bmi-next{
+    padding-left: 10px;
+    font-size: 13pt;
+    font-family: Roboto;
+    color: #303030;
+    line-height: 2;
+}

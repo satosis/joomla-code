@@ -1,0 +1,24 @@
+/**
+ * @package         Content Templater
+ * @version         5.3.0
+ * 
+ * @author          Peter van Westen <peter@nonumber.nl>
+ * @link            http://www.nonumber.nl
+ * @copyright       Copyright © 2016 NoNumber All Rights Reserved
+ * @license         http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL
+ */
+.contenttemplater-dropdown {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.contenttemplater-dropdown + .contenttemplater-button,
+.contenttemplater-dropdown + .contenttemplater-dropdown {
+  margin-left: 0;
+}
+.contenttemplater-dropdown .dropdown-menu > li > span {
+  display: block;
+  padding: 3px 20px;
+}
+.contenttemplater-button {
+  margin-left: 5px;
+}

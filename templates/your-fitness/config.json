@@ -1,0 +1,2122 @@
+{
+	"dynamic_style": "1",
+	"maintenance_page": "1",
+	"compression": "0",
+	"totop_scroller": "0",
+	"warp_branding": "0",
+	"panel_default": {
+		"top-a": {
+			"panel": "uk-panel"
+		},
+		"top-b": {
+			"panel": "uk-panel"
+		},
+		"top-c": {
+			"panel": "uk-panel"
+		},
+		"top-d": {
+			"panel": "uk-panel"
+		},
+		"top-e": {
+			"panel": "uk-panel"
+		},
+		"top-f": {
+			"panel": "uk-panel"
+		},
+		"top-g": {
+			"panel": "uk-panel"
+		},
+		"top-h": {
+			"panel": "uk-panel"
+		},
+		"top-i": {
+			"panel": "uk-panel"
+		},
+		"top-j": {
+			"panel": "uk-panel"
+		},
+		"bottom-a": {
+			"panel": "uk-panel uk-panel-box"
+		},
+		"bottom-b": {
+			"panel": "uk-panel uk-panel-box"
+		},
+		"main-top": {
+			"panel": "uk-panel uk-panel-box"
+		},
+		"main-bottom": {
+			"panel": "uk-panel uk-panel-box"
+		},
+		"sidebar-a": {
+			"panel": "uk-panel uk-panel-box"
+		},
+		"sidebar-b": {
+			"panel": "uk-panel uk-panel-box"
+		},
+		"footer": {
+			"panel": "uk-panel"
+		}
+	},
+	"tracking_code": "",
+	"layouts": {
+		"default": {
+			"style": "default",
+			"sticky_menu": "1",
+			"article_style": "1",
+			"menu_align": "tm-menu-center",
+			"sidebars": {
+				"sidebar-a": {
+					"width": "15",
+					"alignment": "right"
+				},
+				"sidebar-b": {
+					"width": "15",
+					"alignment": "right"
+				}
+			},
+			"grid": {
+				"top-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-b": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-c": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-d": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-e": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-f": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-g": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-h": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-i": {
+					"layout": "stacked",
+					"responsive": "",
+					"sectionbg": "1",
+					"section_padding": ""
+				},
+				"top-j": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"bottom-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"bottom-b": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"main-top": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"main-bottom": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"footer": {
+					"layout": "doubled",
+					"responsive": "",
+					"section_padding": ""
+				}
+			},
+			"slider": "1",
+			"slideset": "1",
+			"parallax": "1"
+		},
+		"Home page": {
+			"style": "default",
+			"system_output": "0",
+			"sticky_menu": "1",
+			"article_style": "0",
+			"menu_align": "tm-menu-center",
+			"sidebars": {
+				"sidebar-a": {
+					"width": "15",
+					"alignment": "right"
+				},
+				"sidebar-b": {
+					"width": "15",
+					"alignment": "right"
+				}
+			},
+			"grid": {
+				"top-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"collapse": "1",
+					"section_padding": ""
+				},
+				"top-b": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": "tm-padding-large"
+				},
+				"top-c": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": "tm-padding-medium"
+				},
+				"top-d": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": "tm-padding-medium"
+				},
+				"top-e": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": "tm-padding-medium"
+				},
+				"top-f": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-g": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": "tm-padding-medium"
+				},
+				"top-h": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-i": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-j": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"bottom-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"bottom-b": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"main-top": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"main-bottom": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"footer": {
+					"layout": "doubled",
+					"responsive": "",
+					"collapse": "1",
+					"section_padding": ""
+				}
+			},
+			"slider": "1",
+			"slideset": "1",
+			"assignment": {
+				"0": "101"
+			}
+		},
+		"Home page 2": {
+			"style": "default",
+			"system_output": "0",
+			"sticky_menu": "1",
+			"article_style": "0",
+			"menu_align": "tm-menu-center",
+			"sidebars": {
+				"sidebar-a": {
+					"width": "15",
+					"alignment": "right"
+				},
+				"sidebar-b": {
+					"width": "15",
+					"alignment": "right"
+				}
+			},
+			"grid": {
+				"top-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-b": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-c": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": "tm-padding-large"
+				},
+				"top-d": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"sectionbg": "1",
+					"section_padding": "tm-padding-small"
+				},
+				"top-e": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": "tm-padding-medium"
+				},
+				"top-f": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"sectionbg": "1",
+					"section_padding": "tm-padding-small"
+				},
+				"top-g": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": "tm-padding-medium"
+				},
+				"top-h": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"sectionbg": "1",
+					"section_padding": "tm-padding-small"
+				},
+				"top-i": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-j": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"bottom-a": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"bottom-b": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"main-top": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"main-bottom": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"footer": {
+					"layout": "doubled",
+					"responsive": "",
+					"section_padding": ""
+				}
+			},
+			"slider": "1",
+			"slideset": "1",
+			"assignment": {
+				"0": "126"
+			}
+		},
+		"Page": {
+			"style": "default",
+			"system_output": "0",
+			"sticky_menu": "1",
+			"article_style": "1",
+			"menu_align": "tm-menu-center",
+			"sidebars": {
+				"sidebar-a": {
+					"width": "15",
+					"alignment": "right"
+				},
+				"sidebar-b": {
+					"width": "15",
+					"alignment": "right"
+				}
+			},
+			"grid": {
+				"top-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-b": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-c": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-d": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-e": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-f": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-g": {
+					"layout": "stacked",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-h": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": "tm-padding-large"
+				},
+				"top-i": {
+					"layout": "parallel",
+					"responsive": "",
+					"sectionbgone": "1",
+					"section_padding": ""
+				},
+				"top-j": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"bottom-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"bottom-b": {
+					"layout": "stacked",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"main-top": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"main-bottom": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"footer": {
+					"layout": "doubled",
+					"responsive": "",
+					"section_padding": ""
+				}
+			},
+			"slider": "1",
+			"accordion": "1",
+			"assignment": {
+				"0": "102",
+				"1": "129",
+				"2": "140",
+				"3": "154",
+				"4": "141",
+				"5": "143",
+				"6": "114",
+				"7": "115"
+			}
+		},
+		"documentation": {
+			"style": "default",
+			"sticky_menu": "1",
+			"article_style": "1",
+			"menu_align": "tm-menu-center",
+			"sidebars": {
+				"sidebar-a": {
+					"width": "15",
+					"alignment": "right"
+				},
+				"sidebar-b": {
+					"width": "15",
+					"alignment": "right"
+				}
+			},
+			"grid": {
+				"top-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-b": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"top-c": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-d": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-e": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-f": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-g": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-h": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"top-i": {
+					"layout": "stacked",
+					"responsive": "",
+					"sectionbg": "1",
+					"section_padding": ""
+				},
+				"top-j": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"bottom-a": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"bottom-b": {
+					"layout": "parallel",
+					"responsive": "",
+					"fullwidth": "1",
+					"section_padding": ""
+				},
+				"main-top": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"main-bottom": {
+					"layout": "parallel",
+					"responsive": "",
+					"section_padding": ""
+				},
+				"footer": {
+					"layout": "doubled",
+					"responsive": "",
+					"section_padding": ""
+				}
+			},
+			"autocomplete": "1",
+			"datepicker": "1",
+			"html_editor": "1",
+			"slider": "1",
+			"slideset": "1",
+			"parallax": "1",
+			"accordion": "1",
+			"notify": "1",
+			"search": "1",
+			"nestable": "1",
+			"sortable": "1",
+			"timepicker": "1",
+			"upload": "1",
+			"assignment": {
+				"0": "174"
+			}
+		}
+	},
+	"widgets": {
+		"17": {
+			"class": "",
+			"panel": "uk-panel",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"88": {
+			"class": "",
+			"panel": "uk-panel",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"92": {
+			"class": "",
+			"panel": "uk-panel",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"97": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"98": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"99": {
+			"class": "box-best-videos",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"100": {
+			"class": "box-margin-gallery",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"102": {
+			"class": "box-more-articles",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"103": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"104": {
+			"class": "box-classes-color",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"105": {
+			"class": "",
+			"panel": "uk-panel",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"106": {
+			"class": "",
+			"panel": "uk-panel",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "0",
+				"small": "0"
+			}
+		},
+		"107": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"108": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"109": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"111": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "0"
+			}
+		},
+		"112": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "0"
+			}
+		},
+		"113": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"114": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"115": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"116": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"117": {
+			"class": "box-classes-color",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"118": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "0",
+				"small": "0"
+			}
+		},
+		"119": {
+			"class": "box-news-bg",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"120": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"123": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"124": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"125": {
+			"class": "",
+			"panel": "uk-panel",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"126": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"127": {
+			"class": "box-color",
+			"panel": "uk-panel",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"128": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"129": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"130": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"133": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"134": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"135": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"136": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"137": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"138": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"139": {
+			"class": "box-classes-color",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"140": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"141": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"142": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"143": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"144": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"146": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "0"
+			}
+		},
+		"147": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"149": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"150": {
+			"class": "box-classes",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"151": {
+			"class": "box-color-work",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"152": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"153": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"154": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"155": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"156": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"157": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"158": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"159": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"160": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"163": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"164": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"165": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"166": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"167": {
+			"class": "",
+			"panel": "",
+			"titlespan": "0",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"168": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"170": {
+			"class": "",
+			"panel": "uk-panel",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"171": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"173": {
+			"class": "",
+			"panel": "uk-panel",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"174": {
+			"class": "",
+			"panel": "uk-panel",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		},
+		"175": {
+			"class": "",
+			"panel": "",
+			"title_size": "uk-panel-title",
+			"icon": "",
+			"badge": {
+				"type": "uk-panel-badge uk-badge",
+				"text": ""
+			},
+			"display": {
+				"large": "1",
+				"medium": "1",
+				"small": "1"
+			}
+		}
+	},
+	"widgetsanimations": {
+		"17": {
+			"animation": "",
+			"animation_delay": ""
+		},
+		"88": {
+			"animation": "uk-animation-slide-top",
+			"animation_delay": "500"
+		},
+		"92": {
+			"animation": "",
+			"animation_delay": ""
+		},
+		"97": {
+			"animation": "",
+			"animation_delay": ""
+		},
+		"98": {
+			"animation": "",
+			"animation_delay": ""
+		},
+		"99": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"100": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"102": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"103": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"104": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"105": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"106": {
+			"animation": "uk-animation-fade",
+			"animation_delay": "500"
+		},
+		"107": {
+			"animation": "uk-animation-slide-top",
+			"animation_delay": "500"
+		},
+		"108": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"109": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"111": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"112": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"113": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"114": {
+			"animation": "uk-animation-fade",
+			"animation_delay": "500"
+		},
+		"115": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"116": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"117": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"118": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"119": {
+			"animation": "",
+			"animation_delay": ""
+		},
+		"120": {
+			"animation": "",
+			"animation_delay": ""
+		},
+		"123": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"124": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"125": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"126": {
+			"animation": "uk-animation-slide-top",
+			"animation_delay": "500"
+		},
+		"127": {
+			"animation": "",
+			"animation_delay": ""
+		},
+		"128": {
+			"animation": "",
+			"animation_delay": ""
+		},
+		"129": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"130": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"133": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"134": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"135": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"136": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"137": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"138": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"139": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"140": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"141": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"142": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"143": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"144": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"146": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"147": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"149": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"150": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"151": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"152": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"153": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"154": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"155": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"156": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"157": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"158": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"159": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"160": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"163": {
+			"animation": "uk-animation-slide-top",
+			"animation_delay": "500"
+		},
+		"164": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"165": {
+			"animation": "",
+			"animation_delay": "500"
+		},
+		"166": {
+			"animation": "uk-animation-slide-bottom",
+			"animation_delay": "500"
+		},
+		"167": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"168": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"170": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"171": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"173": {
+			"animation": "uk-animation-scale-up",
+			"animation_delay": "500"
+		},
+		"174": {
+			"animation": "uk-animation-scale-down",
+			"animation_delay": "500"
+		},
+		"175": {
+			"animation": "",
+			"animation_delay": ""
+		}
+	},
+	"menus": {
+		"101": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"102": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"110": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"111": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"112": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"113": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"114": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"115": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"126": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"129": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"140": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"141": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"142": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"143": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"154": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"158": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"159": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"160": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"162": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"165": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"166": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"167": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"168": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"169": {
+			"columns": "1",
+			"columnwidth": "",
+			"icon": "",
+			"subtitle": ""
+		},
+		"174": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"175": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"176": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"177": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"178": {
+			"icon": "",
+			"subtitle": ""
+		},
+		"179": {
+			"icon": "",
+			"subtitle": ""
+		}
+	}
+}
